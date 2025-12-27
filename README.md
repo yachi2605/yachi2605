@@ -28,8 +28,6 @@
 - AI Engineer opportunities (Full-time/Internship)
 - Collaborative AI/ML projects, especially in fintech and data-driven applications
 
-⚡ **Fun Fact**
-- I've analyzed more crypto patterns than I've had cups of coffee... and that's saying something! ☕📈
 
 ---
 
