@@ -112,13 +112,7 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=yachi2605&icon=2&color=6)
 
 *"Data is the new oil, but insights are the refined fuel that powers decisions."*
 
