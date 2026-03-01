@@ -1,121 +1,74 @@
-[<div align="center">
+# Hi, I'm Yachi
 
-# Hi, I'm Yachi Darji 👋  
+Student graduating **May 2026** • Aspiring **ML Engineer / AI Engineer / Data Scientist**
 
-**MS Data Science @ Illinois Institute of Technology**  
-**Data Scientist | Applied Machine Learning | AI & GenAI Systems**
+I build end-to-end ML + AI projects—from data pipelines and modeling to agentic apps and deployment.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yachi-darji/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ydarji@hawk.illinoistech.edu)
-
-</div>
+- Interests: Machine Learning, LLMs/Agents, Data Engineering, Applied AI products
+- Currently: building portfolio projects + preparing for new grad roles (2026)
+- GitHub: https://github.com/yachi2605
 
 ---
 
-## 🚀 About Me
+## 🏆 Hackathons
 
-I build **end-to-end data science and machine learning systems** — from raw data and feature engineering to **validated models, explainable insights, and production-ready pipelines**.
+### HackIllinois 2026 — **CatSense**
+Built **CatSense** at **HackIllinois 2026** — a hackathon project focused on applying AI to understand/interpret cat behavior (and turn that into something useful for pet owners).
 
-My experience spans **sales forecasting, healthcare ML, federated learning research, and AI agent systems**, with a strong focus on **model quality, robustness, and real-world impact**.
-
----
-
-## 🔬 What I Work On
-- 📈 Time-series forecasting & demand modeling  
-- 🤖 Applied machine learning with rigorous evaluation  
-- 🧠 LLM-powered systems with structured outputs & safeguards  
-- 🏗️ End-to-end ML pipelines (data → model → insights → deployment)
+- Devpost: https://devpost.com/software/catsense-coq2af?_gl=1*1t3xy9p*_gcl_au*OTEyODA2MTQ1LjE3NzIzNzI3ODc.*_ga*MTcxNDk2MTIxMi4xNzcyMzcyNzg3*_ga_0YHJK3Y10M*czE3NzIzOTUwMzUkbzQkZzEkdDE3NzIzOTUyNTkkajM3JGwwJGgw
+- Repo: (link your CatSense repo here) https://github.com/yachi2605/REPO_NAME
 
 ---
 
-## 💼 Experience Snapshot
-- **Data Science Co-Op (Sales Forecasting)** – Industry project improving LSTM-based forecasting pipelines  
-- **Data Scientist Intern (Healthcare ML)** – Built AWS-deployed risk models on 500K+ clinical records, reducing manual effort by 40%  
-- **Data Analyst Intern** – Supply-chain analytics and dashboards translating data into operations decisions  
+## Featured Projects
+
+### 🤖 AI-Powered Job Search Automation & Application Optimizer
+**Repo:** AI-Auto-Job-applier  
+An end-to-end system that automates job discovery + improves applications using AI (n8n automation + Streamlit app).  
+Highlights: job matching, resume/JD analysis, scoring, gap analysis, cover letter generation.
+
+### 🏘️ UK Housing Market Intelligence Pipeline
+**Repo:** uk-housing-market-intelligence-pipeline  
+Data pipeline + analytics + modeling workflow (DuckDB, Python) with Makefile-driven tasks (ingest → clean → analyze → model → Streamlit app).
+
+### 📈 Crypto Market Analyst Agent
+**Repo:** Crypto-market-analyst-agent  
+Agent-style app using LangChain/LangGraph + Streamlit to analyze crypto market news and signals.
+
+### ✈️ AI Trip Planner (Agentic workflow)
+**Repo:** AI-Trip-Planner  
+Multi-agent workflow (CrewAI) to generate destinations, activities, and itineraries.
+
+### 🤝 Federated Learning (ML systems)
+**Repo:** Federated-Learning  
+Dockerized Python project focusing on federated learning experimentation / serving setup.
 
 ---
 
-## 🚀 Featured Projects
-🔹 **AI-Powered Job Search Automation**  
-LLM-based system that extracts job requirements, performs structured gap analysis, and generates **0–100 match scores across 400+ roles**, reducing application prep time by **70%**.
-
-🔹 **TrustWeight: Asynchronous Federated Learning**  
-Proposed a trust-based staleness control mechanism, improving accuracy to **52–53% vs. 11–28% baselines** under non-IID and delayed-client settings.
-
-🔹 **UK Real Estate Predictive Analytics Platform**  
-Processed **25M+ transactions**, trained ensemble models (R² = 0.87), and delivered SHAP-based explainability via interactive dashboards.
-
-🔹 **Crypto Market Analysis Agent**  
-Built a tool-using AI agent that combines live market data and news with reliability safeguards and automated testing.
-
-👉 Each project repo includes problem framing, methodology, evaluation, and results.
-
----
-## 💻 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-**Data Visualization & Analysis**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Frameworks & Tools**
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
-
+## Tech Stack (what I use most)
+- **Languages:** Python, SQL (plus some JS/Dart from side projects)
+- **ML/AI:** model training & evaluation, experimentation, applied NLP/CV, agent frameworks
+- **Data:** pipelines, cleaning, analysis, DuckDB
+- **Apps/Tools:** Streamlit, Docker, automation workflows (n8n), LLM tooling (LangChain/LangGraph, CrewAI)
 
 ---
 
-## 📌 What I’m Looking For
-- Data Scientist / Applied ML / AI roles  
-- Teams solving **real-world problems with data**  
-- Work where **model quality, evaluation, and impact matter**
+## What I’m looking for
+New grad opportunities (2026) in:
+- **Machine Learning Engineering**
+- **AI Engineering / Applied LLM**
+- **Data Science / Analytics Engineering**
 
 ---
 
-<div align="center">
+## Contact
+Add your links here:
+- LinkedIn: YOUR_LINK
+- Email: YOUR_EMAIL
+- Portfolio: YOUR_SITE
 
-*"Data is only valuable when it leads to better decisions."*
+---
 
-</div>
-](https://devpost.com/software/catsense-coq2af?_gl=1*ks732g*_gcl_au*MjYyOTYyNjQxLjE3NzIyMTY3NzA.*_ga*MjgzMzk4MjIzLjE3NzIyMTY3NzA.*_ga_0YHJK3Y10M*czE3NzI0MDY2NjAkbzkkZzEkdDE3NzI0MDY3MzgkajQyJGwwJGgw)
+## GitHub Stats (optional)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yachi2605&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yachi2605&layout=compact)
