@@ -1,74 +1,120 @@
-# Hi, I'm Yachi
+<div align="center">
 
-Student graduating **May 2026** • Aspiring **ML Engineer / AI Engineer / Data Scientist**
+```
+██╗   ██╗ █████╗  ██████╗██╗  ██╗██╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║██║
+ ╚████╔╝ ███████║██║     ███████║██║
+  ╚██╔╝  ██╔══██║██║     ██╔══██║██║
+   ██║   ██║  ██║╚██████╗██║  ██║██║
+   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝
+```
 
-I build end-to-end ML + AI projects—from data pipelines and modeling to agentic apps and deployment.
+### ML Engineer · AI Engineer · Data Scientist
+**Graduating May 2026** — building end-to-end AI systems, from pipelines to agents to products.
 
-- Interests: Machine Learning, LLMs/Agents, Data Engineering, Applied AI products
-- Currently: building portfolio projects + preparing for new grad roles (2026)
-- GitHub: https://github.com/yachi2605
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+
+</div>
+
+---
+
+## About
+
+I'm a final-year student passionate about the full ML stack — from wrangling messy data to deploying agents that actually do things. I care about building AI systems that are practical, not just impressive in a notebook.
+
+Currently deep in portfolio-building mode and preparing for **2026 new grad roles** in ML Engineering, AI Engineering, and Data Science.
+
+**What I'm drawn to:** LLMs & agent frameworks · data engineering · applied ML · AI product development
 
 ---
 
 ## 🏆 Hackathons
 
-### HackIllinois 2026 — **CatSense**
-Built **CatSense** at **HackIllinois 2026** — a hackathon project focused on applying AI to understand/interpret cat behavior (and turn that into something useful for pet owners).
+### HackIllinois 2026 — CatSense
+> *AI that understands your cat. No, really.*
 
-- Devpost: https://devpost.com/software/catsense-coq2af?_gl=1*1t3xy9p*_gcl_au*OTEyODA2MTQ1LjE3NzIzNzI3ODc.*_ga*MTcxNDk2MTIxMi4xNzcyMzcyNzg3*_ga_0YHJK3Y10M*czE3NzIzOTUwMzUkbzQkZzEkdDE3NzIzOTUyNTkkajM3JGwwJGgw
-- Repo: (link your CatSense repo here) https://github.com/yachi2605/REPO_NAME
+Built an AI system to interpret and classify cat behavior from sensor/input data — turning it into actionable insights for pet owners. Shipped end-to-end at HackIllinois 2026.
+
+[→ Devpost](https://devpost.com/software/catsense-coq2af) · [→ Repo](https://github.com/yachi2605/REPO_NAME)
 
 ---
 
 ## Featured Projects
 
-### 🤖 AI-Powered Job Search Automation & Application Optimizer
-**Repo:** AI-Auto-Job-applier  
-An end-to-end system that automates job discovery + improves applications using AI (n8n automation + Streamlit app).  
-Highlights: job matching, resume/JD analysis, scoring, gap analysis, cover letter generation.
+### 🤖 AI-Powered Job Search Automation
+`n8n` `Streamlit` `LLMs` `Automation`
+
+End-to-end system that automates job discovery and optimizes applications using AI. Resume/JD analysis, gap identification, scoring, and cover letter generation — all in one pipeline.
+
+[→ AI-Auto-Job-applier](https://github.com/yachi2605/AI-Auto-Job-applier)
+
+---
 
 ### 🏘️ UK Housing Market Intelligence Pipeline
-**Repo:** uk-housing-market-intelligence-pipeline  
-Data pipeline + analytics + modeling workflow (DuckDB, Python) with Makefile-driven tasks (ingest → clean → analyze → model → Streamlit app).
+`DuckDB` `Python` `Streamlit` `Data Engineering`
+
+Makefile-driven analytics pipeline: ingest → clean → analyze → model → visualize. Full workflow for housing market intelligence with reproducible, modular stages.
+
+[→ uk-housing-market-intelligence-pipeline](https://github.com/yachi2605/uk-housing-market-intelligence-pipeline)
+
+---
 
 ### 📈 Crypto Market Analyst Agent
-**Repo:** Crypto-market-analyst-agent  
-Agent-style app using LangChain/LangGraph + Streamlit to analyze crypto market news and signals.
+`LangChain` `LangGraph` `Streamlit` `Agents`
 
-### ✈️ AI Trip Planner (Agentic workflow)
-**Repo:** AI-Trip-Planner  
-Multi-agent workflow (CrewAI) to generate destinations, activities, and itineraries.
+Agent-style app that analyzes crypto market news and signals. Built on LangGraph for structured multi-step reasoning over live market data.
 
-### 🤝 Federated Learning (ML systems)
-**Repo:** Federated-Learning  
-Dockerized Python project focusing on federated learning experimentation / serving setup.
+[→ Crypto-market-analyst-agent](https://github.com/yachi2605/Crypto-market-analyst-agent)
 
 ---
 
-## Tech Stack (what I use most)
-- **Languages:** Python, SQL (plus some JS/Dart from side projects)
-- **ML/AI:** model training & evaluation, experimentation, applied NLP/CV, agent frameworks
-- **Data:** pipelines, cleaning, analysis, DuckDB
-- **Apps/Tools:** Streamlit, Docker, automation workflows (n8n), LLM tooling (LangChain/LangGraph, CrewAI)
+### ✈️ AI Trip Planner
+`CrewAI` `Multi-Agent` `LLMs`
+
+Multi-agent workflow (CrewAI) that researches destinations, plans activities, and generates full itineraries. Demonstrates agent collaboration and task decomposition.
+
+[→ AI-Trip-Planner](https://github.com/yachi2605/AI-Trip-Planner)
 
 ---
 
-## What I’m looking for
-New grad opportunities (2026) in:
-- **Machine Learning Engineering**
-- **AI Engineering / Applied LLM**
-- **Data Science / Analytics Engineering**
+### 🔒 Federated Learning System
+`Docker` `Python` `ML Systems` `Privacy-Preserving ML`
+
+Dockerized federated learning setup for distributed model training without centralizing data. Focuses on the systems side of ML — coordination, serving, and experimentation.
+
+[→ Federated-Learning](https://github.com/yachi2605/Federated-Learning)
 
 ---
 
-## Contact
-Add your links here:
-- LinkedIn: YOUR_LINK
-- Email: YOUR_EMAIL
-- Portfolio: YOUR_SITE
+## Tech Stack
+
+```
+Languages     Python · SQL · JavaScript (+ Dart for side projects)
+ML / AI       Model training & evaluation · NLP/CV · Experimentation
+Agents        LangChain · LangGraph · CrewAI
+Data          DuckDB · Pipelines · Cleaning · Analysis
+Apps / Infra  Streamlit · Docker · n8n · LLM tooling
+```
 
 ---
 
-## GitHub Stats (optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yachi2605&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yachi2605&layout=compact)
+## I'm Open To
+
+New grad roles (2026) in:
+
+- **ML Engineering** — building and shipping ML systems
+- **AI Engineering / Applied LLM** — agents, RAG, LLM products
+- **Data Science / Analytics Engineering** — insight → action pipelines
+
+If you're working on something interesting in these spaces, reach out.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yachi2605&show_icons=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yachi2605&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d)
+
+</div>
