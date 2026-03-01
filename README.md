@@ -12,9 +12,8 @@
 ### ML Engineer · AI Engineer · Data Scientist
 **Graduating May 2026** — building end-to-end AI systems, from pipelines to agents to products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yachi-darji/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yachi2605@gmail.com)
 
 </div>
 
@@ -32,10 +31,10 @@ Currently deep in portfolio-building mode and preparing for **2026 new grad role
 
 ## 🏆 Hackathons
 
-### HackIllinois 2026 — CatSense
-> *AI that understands your cat. No, really.*
+### HackIllinois 2026 — CatSense (Caterpiller Track)
+> *Multimodal AI for heavy machinery inspection — built in a weekend.*
 
-Built an AI system to interpret and classify cat behavior from sensor/input data — turning it into actionable insights for pet owners. Shipped end-to-end at HackIllinois 2026.
+Built for Caterpillar's sponsored track: a multimodal AI system (images + audio) that classifies CAT machine conditions and auto-generates structured inspection reports for technical inspectors. Reduced inspection time by ~70%. Shipped end-to-end at HackIllinois 2026.
 
 [→ Devpost](https://devpost.com/software/catsense-coq2af) · [→ Repo](https://github.com/yachi2605/REPO_NAME)
 
@@ -91,11 +90,11 @@ Dockerized federated learning setup for distributed model training without centr
 ## Tech Stack
 
 ```
-Languages     Python · SQL · JavaScript (+ Dart for side projects)
-ML / AI       Model training & evaluation · NLP/CV · Experimentation
-Agents        LangChain · LangGraph · CrewAI
+Languages     Python · SQL · JavaScript (+ Dart for side projects) · Typescript 
+ML / AI       Model training & evaluation · NLP/CV · Experimentation · Actian Vector AIDB
+Agents        LangChain · LangGraph · CrewAI · Elevenlabs
 Data          DuckDB · Pipelines · Cleaning · Analysis
-Apps / Infra  Streamlit · Docker · n8n · LLM tooling
+Apps / Infra  Streamlit · Docker · n8n · LLM tooling  · Cloudflare 
 ```
 
 ---
