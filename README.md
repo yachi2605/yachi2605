@@ -111,9 +111,3 @@ If you're working on something interesting in these spaces, reach out.
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yachi2605&show_icons=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yachi2605&layout=compact&bg_color=0d1117&text_color=c9d1d9&border_color=30363d)
-
-</div>
