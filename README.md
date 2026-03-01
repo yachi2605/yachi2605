@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # Hi, I'm Yachi Darji 👋  
 
@@ -118,3 +118,4 @@ Built a tool-using AI agent that combines live market data and news with reliabi
 *"Data is only valuable when it leads to better decisions."*
 
 </div>
+](https://devpost.com/software/catsense-coq2af?_gl=1*ks732g*_gcl_au*MjYyOTYyNjQxLjE3NzIyMTY3NzA.*_ga*MjgzMzk4MjIzLjE3NzIyMTY3NzA.*_ga_0YHJK3Y10M*czE3NzI0MDY2NjAkbzkkZzEkdDE3NzI0MDY3MzgkajQyJGwwJGgw)
