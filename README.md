@@ -19,7 +19,7 @@ My background is in applied ML and AI engineering: shipped a demand forecasting 
 
 Currently open to full-time AI Engineer and Data Scientist roles.
 
-**Certified:** AWS ML Specialty · GCP Professional ML Engineer
+
 
 ---
 
